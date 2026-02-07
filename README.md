@@ -1,7 +1,7 @@
 # Привет, меня зовут Арсений!😉
 
 Product Analyst Intern   
-SQL • Python • A/B testing • Funnels • Data quality • Cohorts & RFM
+SQL • Python • Excel
 
 **Контакты:**  
 - Email: arseniy.kulygin@yandex.ru  
